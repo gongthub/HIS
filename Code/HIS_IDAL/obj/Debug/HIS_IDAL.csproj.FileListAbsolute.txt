@@ -1,0 +1,14 @@
+D:\myfile\Files\study\code\WCF\HIS\HIS_IDAL\bin\Debug\HIS_IDAL.dll
+D:\myfile\Files\study\code\WCF\HIS\HIS_IDAL\bin\Debug\HIS_IDAL.pdb
+D:\myfile\Files\study\code\WCF\HIS\HIS_IDAL\bin\Debug\HIS_Model.dll
+D:\myfile\Files\study\code\WCF\HIS\HIS_IDAL\bin\Debug\HIS_Model.pdb
+D:\myfile\Files\study\code\WCF\HIS\HIS_IDAL\obj\Debug\HIS_IDAL.csprojResolveAssemblyReference.cache
+D:\myfile\Files\study\code\WCF\HIS\HIS_IDAL\obj\Debug\HIS_IDAL.dll
+D:\myfile\Files\study\code\WCF\HIS\HIS_IDAL\obj\Debug\HIS_IDAL.pdb
+F:\study\WCFStudy\HIS\HIS_IDAL\bin\Debug\HIS_IDAL.dll
+F:\study\WCFStudy\HIS\HIS_IDAL\bin\Debug\HIS_IDAL.pdb
+F:\study\WCFStudy\HIS\HIS_IDAL\bin\Debug\HIS_Model.dll
+F:\study\WCFStudy\HIS\HIS_IDAL\bin\Debug\HIS_Model.pdb
+F:\study\WCFStudy\HIS\HIS_IDAL\obj\Debug\HIS_IDAL.csprojResolveAssemblyReference.cache
+F:\study\WCFStudy\HIS\HIS_IDAL\obj\Debug\HIS_IDAL.dll
+F:\study\WCFStudy\HIS\HIS_IDAL\obj\Debug\HIS_IDAL.pdb

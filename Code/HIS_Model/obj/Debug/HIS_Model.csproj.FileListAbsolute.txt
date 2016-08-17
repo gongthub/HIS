@@ -1,0 +1,9 @@
+D:\myfile\Files\study\code\WCF\HIS\HIS_Model\bin\Debug\HIS_Model.dll
+D:\myfile\Files\study\code\WCF\HIS\HIS_Model\bin\Debug\HIS_Model.pdb
+D:\myfile\Files\study\code\WCF\HIS\HIS_Model\obj\Debug\HIS_Model.dll
+D:\myfile\Files\study\code\WCF\HIS\HIS_Model\obj\Debug\HIS_Model.pdb
+D:\myfile\Files\study\code\WCF\HIS\HIS_Model\obj\Debug\HIS_Model.csprojResolveAssemblyReference.cache
+F:\study\WCFStudy\HIS\HIS_Model\bin\Debug\HIS_Model.dll
+F:\study\WCFStudy\HIS\HIS_Model\bin\Debug\HIS_Model.pdb
+F:\study\WCFStudy\HIS\HIS_Model\obj\Debug\HIS_Model.dll
+F:\study\WCFStudy\HIS\HIS_Model\obj\Debug\HIS_Model.pdb

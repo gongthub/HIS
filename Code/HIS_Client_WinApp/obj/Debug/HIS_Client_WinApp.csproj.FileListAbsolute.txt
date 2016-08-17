@@ -1,0 +1,16 @@
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\bin\Debug\HIS_Client_WinApp.exe.config
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\bin\Debug\HIS_Client_WinApp.exe
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\bin\Debug\HIS_Client_WinApp.pdb
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.csprojResolveAssemblyReference.cache
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.Properties.Resources.resources
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.csproj.GenerateResource.Cache
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.exe
+D:\myfile\Files\study\code\WCF\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.pdb
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\bin\Debug\HIS_Client_WinApp.exe.config
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\bin\Debug\HIS_Client_WinApp.exe
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\bin\Debug\HIS_Client_WinApp.pdb
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.csprojResolveAssemblyReference.cache
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.Properties.Resources.resources
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.csproj.GenerateResource.Cache
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.exe
+F:\study\WCFStudy\HIS\HIS_Client_WinApp\obj\Debug\HIS_Client_WinApp.pdb

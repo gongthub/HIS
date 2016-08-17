@@ -1,0 +1,14 @@
+D:\myfile\Files\study\code\WCF\HIS\HIS_BLL\bin\Debug\HIS_BLL.dll
+D:\myfile\Files\study\code\WCF\HIS\HIS_BLL\bin\Debug\HIS_BLL.pdb
+D:\myfile\Files\study\code\WCF\HIS\HIS_BLL\obj\Debug\HIS_BLL.csprojResolveAssemblyReference.cache
+D:\myfile\Files\study\code\WCF\HIS\HIS_BLL\obj\Debug\HIS_BLL.dll
+D:\myfile\Files\study\code\WCF\HIS\HIS_BLL\obj\Debug\HIS_BLL.pdb
+F:\study\WCFStudy\HIS\HIS_BLL\bin\Debug\HIS_BLL.dll
+F:\study\WCFStudy\HIS\HIS_BLL\bin\Debug\HIS_BLL.pdb
+F:\study\WCFStudy\HIS\HIS_BLL\bin\Debug\HIS_IDAL.dll
+F:\study\WCFStudy\HIS\HIS_BLL\bin\Debug\HIS_Model.dll
+F:\study\WCFStudy\HIS\HIS_BLL\bin\Debug\HIS_IDAL.pdb
+F:\study\WCFStudy\HIS\HIS_BLL\bin\Debug\HIS_Model.pdb
+F:\study\WCFStudy\HIS\HIS_BLL\obj\Debug\HIS_BLL.csprojResolveAssemblyReference.cache
+F:\study\WCFStudy\HIS\HIS_BLL\obj\Debug\HIS_BLL.dll
+F:\study\WCFStudy\HIS\HIS_BLL\obj\Debug\HIS_BLL.pdb
